@@ -19,14 +19,5 @@
 			You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
 			
 			
-			Known command:
-			1.	git init
 			
-			2.	git add: git add file_name.extention, 
-			
-			3.	git commit: git commit -m "Message", 
-			
-			4.	git diff
-			
-			5.	
 
